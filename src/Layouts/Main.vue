@@ -3,16 +3,15 @@
 
     <NavBar/>
 
-    <hr>
-
     <div class="container">
+      <hr>
       <slot></slot>
     </div>
   </div>
 </template>
 
 <script>
-import NavBar from './NavBar'
+import NavBar from '../components/NavBar'
 
 export default {
   name: 'MainLayout',

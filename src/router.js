@@ -5,7 +5,8 @@ Vue.use(Router)
 
 const routerOptions = [
   { path: '/', name: 'Home', viewPath: 'Home' },
-  { path: '/about', name: 'About', viewPath: 'About' }
+  { path: '/about', name: 'About', viewPath: 'About' },
+  { path: '/generate', name: 'Generate', viewPath: 'Generate' }
 ]
 
 const routes = routerOptions.map(r => {
@@ -18,7 +19,5 @@ const routes = routerOptions.map(r => {
 const router = new Router({
   routes
 })
-
-router.beforeEach((to, from, next) => {})
 
 export default router

@@ -7,6 +7,7 @@
     <router-view/>
   </div>
 </template>
+
 <style lang="stylus">
 #app
   font-family 'Avenir', Helvetica, Arial, sans-serif
@@ -22,4 +23,5 @@
     color #2c3e50
     &.router-link-exact-active
       color #42b983
+
 </style>

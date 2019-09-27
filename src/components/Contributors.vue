@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import contributors from '../assets/contributors'
 import Contributor from './Contributor'
+import contributors from '../assets/contributors.json'
 
 export default {
   name: 'Contributors',

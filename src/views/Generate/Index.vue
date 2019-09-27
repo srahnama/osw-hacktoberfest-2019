@@ -42,7 +42,6 @@
         <b-col sm="12" class="d-flex justify-content-end">
           <b-button class="button-custom-width" type="submit" variant="primary">Generate JSON!</b-button>
         </b-col>
-        <input type="hidden" :value="hiddenText" id="hiddenText">
       </b-row>
     </form>
 
@@ -51,9 +50,6 @@
     <h5>Result: </h5>
     <div class="result bg-light p-3 mb-2 rounded">
       <pre v-if="showCopyModel" class="mb-0" >{{copyModel}}</pre>
-    </div>
-    <div v-if="showCopyModel" class="d-flex justify-content-end">
-      <b-button class="button-custom-width" @click="copyToClipboard" variant="outline-secondary">Copy</b-button>
     </div>
   </div>
 </template>
@@ -74,8 +70,7 @@ export default {
         color: '',
         username: '',
         avatarUrl: ''
-      },
-      hiddenText: ''
+      }
     }
   },
   computed: {
@@ -105,25 +100,17 @@ export default {
     getGithubUser (user) {
       const url = `https://api.github.com/users/${user}`
       return axios.get(url)
-    },
-    copyToClipboard () {
-      this.hiddenText = JSON.stringify(this.copyModel)
-      const item = document.getElementById('hiddenText')
-      item.setAttribute('type', 'text')
-      item.select()
-      document.execCommand('copy')
-      item.setAttribute('type', 'hidden')
-    },
-    hexToRGB (hex) {
-      // Delete '#'
-      if (hex.charAt(0) === '#') {
-        hex = hex.substr(1)
-      }
-      const r = parseInt(hex.substring(0, 2), 16)
-      const g = parseInt(hex.substring(2, 4), 16)
-      const b = parseInt(hex.substring(4, 6), 16)
-      this.colorRGB = `rgba(${r}, ${g}, ${b}, 1)`
     }
+    // hexToRGB (hex) {
+    //   // Delete '#'
+    //   if (hex.charAt(0) === '#') {
+    //     hex = hex.substr(1)
+    //   }
+    //   const r = parseInt(hex.substring(0, 2), 16)
+    //   const g = parseInt(hex.substring(2, 4), 16)
+    //   const b = parseInt(hex.substring(4, 6), 16)
+    //   this.colorRGB = `rgba(${r}, ${g}, ${b}, 1)`
+    // }
   }
 }
 </script>

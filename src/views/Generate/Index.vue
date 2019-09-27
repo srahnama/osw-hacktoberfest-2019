@@ -1,9 +1,10 @@
 <template>
-  <div class="generate">
+  <div class="generate mb-5">
     <header class="text-center mb-5">
       <h2> Generate JSON </h2>
       <p class="lead text-muted">Fill the form in to generate your JSON. Ready to copy & paste!</p>
     </header>
+
     <form @submit.prevent="generateJson">
       <b-row>
         <b-col sm="6">
@@ -39,15 +40,19 @@
           </b-form-group>
         </b-col>
         <b-col sm="12" class="d-flex justify-content-end">
-          <b-button type="submit" variant="primary">Generate</b-button>
+          <b-button class="button-custom-width" type="submit" variant="primary">Generate JSON!</b-button>
         </b-col>
       </b-row>
     </form>
 
-    <hr>
+    <hr class="my-5">
 
-    <div class="result bg-light p-3 rounded">
-      <pre>{{copyModel}}</pre>
+    <h5>Result: </h5>
+    <div class="result bg-light p-3 mb-2 rounded">
+      <pre v-if="showCopyModel" class="mb-0">{{copyModel}}</pre>
+    </div>
+    <div v-if="showCopyModel" class="d-flex justify-content-end">
+      <b-button class="button-custom-width" @click="copyToClipboard" variant="outline-secondary">Copy</b-button>
     </div>
   </div>
 </template>
@@ -74,6 +79,9 @@ export default {
   computed: {
     yourColor () {
       return this.form.color ? `Selected color: ${this.form.color}` : ''
+    },
+    showCopyModel () {
+      return this.copyModel.name !== ''
     }
   },
   methods: {
@@ -110,6 +118,11 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="stylus" scoped>
+  .generate
+    .result
+      min-height 158px
 
+    .button-custom-width
+      width 145px
 </style>

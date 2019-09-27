@@ -4,7 +4,7 @@
       <h2> Generate JSON </h2>
       <p class="lead text-muted">Fill the form in to generate your JSON. Ready to copy & paste!</p>
     </header>
-    <form onsubmit="generateJson()">
+    <form @submit.prevent="generateJson">
       <b-row>
         <b-col sm="6">
           <b-form-group
@@ -47,7 +47,7 @@
     <hr>
 
     <div class="result bg-light p-3 rounded">
-      <pre v-if="resultIsReady">{{form}}</pre>
+      <pre>{{copyModel}}</pre>
     </div>
   </div>
 </template>
@@ -60,10 +60,15 @@ export default {
   data () {
     return {
       form: {
-        username: '',
-        color: ''
+        color: '#B4DA55',
+        username: ''
       },
-      resultIsReady: true
+      copyModel: {
+        name: '',
+        color: '',
+        username: '',
+        avatarUrl: ''
+      }
     }
   },
   computed: {
@@ -72,22 +77,34 @@ export default {
     }
   },
   methods: {
-    generateJson () {
-      this.resultIsReady = false
-
-      this.getGithubUser()
+    generateJson (ev) {
+      // this.hexToRGB(this.form.color)
+      this.getGithubUser(this.form.username)
         .then((res) => {
-          this.resultIsReady = true
           console.log(res)
+          this.copyModel.name = res.data.name
+          this.copyModel.color = this.form.color
+          this.copyModel.username = this.form.username
+          this.copyModel.avatarUrl = res.data.avatar_url
         })
         .catch((err) => {
-          this.resultIsReady = false
           console.log(err)
+          this.copyModel = { name: '', color: '', username: '', avatarUrl: '' }
         })
     },
     getGithubUser (user) {
       const url = `https://api.github.com/users/${user}`
       return axios.get(url)
+    },
+    hexToRGB (hex) {
+      // Delete '#'
+      if (hex.charAt(0) === '#') {
+        hex = hex.substr(1)
+      }
+      const r = parseInt(hex.substring(0, 2), 16)
+      const g = parseInt(hex.substring(2, 4), 16)
+      const b = parseInt(hex.substring(4, 6), 16)
+      this.colorRGB = `rgba(${r}, ${g}, ${b}, 1)`
     }
   }
 }

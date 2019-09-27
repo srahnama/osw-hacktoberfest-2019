@@ -3,25 +3,47 @@
     <h1>Generate JSON</h1>
     <form onsubmit="generateJson()">
 
-      <div class="form-group">
-        <label for="username">Github Name:</label>
-        <input type="text" id="username">
-      </div>
+      <b-form-group
+        id="input-group-1"
+        label="GitHub username:"
+        label-for="input-1"
+        description="Your GitHub username"
+      >
+        <b-form-input
+          id="input-1"
+          v-model="form.username"
+          type="text"
+          required
+          placeholder="Username"
+        ></b-form-input>
+      </b-form-group>
 
-      <div class="form-group">
-        <label for="color">Favourite Color:</label>
-        <input type="text" id="color">
-      </div>
+      <b-form-group
+        id="input-group-1"
+        label="GitHub username:"
+        label-for="input-1"
+        description="Format: rgb()"
+      >
+        <b-form-input
+          id="input-1"
+          v-model="form.color"
+          type="color"
+          required
+          placeholder="Color"
+        ></b-form-input>
+      </b-form-group>
 
-      <div class="form-group">
-        <input type="submit" value="Generate">
+      <div>
+        <b-button type="submit" variant="primary">Generate</b-button>
       </div>
     </form>
+
+    <pre>{{form}}</pre>
   </div>
 </template>
 
 <script>
-const axios = require('axios')
+import axios from 'axios'
 
 export default {
   name: 'Generate',

@@ -1,5 +1,5 @@
 <template>
-  <div class="contributors-list">
+  <div class="row">
     <Contributor
       v-for="contributor in contributors"
       :key="contributor.username"

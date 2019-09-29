@@ -2,9 +2,9 @@
   <footer class="footer bg-light border-top border-white">
     <div class="container">
       <div class="py-4">
-        <p class="m-0 center">
+        <p class="m-0 text-center">
           GitHub:
-          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019">https://github.com/OSWeekends/osw-hacktoberfest-2019</a>
+          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019">github.com/OSWeekends/osw-hacktoberfest-2019</a>
         </p>
       </div>
     </div>

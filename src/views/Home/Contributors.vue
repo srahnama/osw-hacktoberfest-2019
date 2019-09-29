@@ -9,7 +9,7 @@
 
 <script>
 import Contributor from './Contributor'
-import contributors from '../assets/contributors.json'
+import contributors from '../../assets/contributors.json'
 
 export default {
   name: 'Contributors',

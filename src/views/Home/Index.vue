@@ -1,21 +1,18 @@
 <template>
   <div class="home">
-    <!--<img alt="Vue logo" src="../../assets/logo.png">-->
-    <header>
-      <h1> Awesome Contributors ✨</h1>
-    </header>
-    <!-- Buscador -->
+    <HeaderTitle />
     <Contributors />
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import Contributors from '@/components/Contributors.vue'
+import Contributors from './Contributors.vue'
+import HeaderTitle from './HeaderTitle'
 
 export default {
-  name: 'home',
+  name: 'Home',
   components: {
+    HeaderTitle,
     Contributors
   }
 }

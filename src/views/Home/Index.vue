@@ -2,8 +2,9 @@
   <div class="home">
     <!--<img alt="Vue logo" src="../../assets/logo.png">-->
     <header>
-      <h1>Contributors</h1>
+      <h1> Awesome Contributors ✨</h1>
     </header>
+    <!-- Buscador -->
     <Contributors />
   </div>
 </template>

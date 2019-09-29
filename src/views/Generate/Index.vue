@@ -115,7 +115,7 @@ export default {
 }
 </script>
 
-<style lang="stylus" scoped>
+<style lang="stylus">
   .generate
     .result
       min-height 158px

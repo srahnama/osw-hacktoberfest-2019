@@ -8,7 +8,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/baumannzone/browser-apis/blob/master/CODE_OF_CONDUCT.md)
-[![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/LICENSE.md)
 
 ## Project setup
 ```

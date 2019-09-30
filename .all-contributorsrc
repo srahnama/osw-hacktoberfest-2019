@@ -26,6 +26,15 @@
         "example",
         "ideas"
       ]
+    },
+    {
+      "login": "PseudoNerd",
+      "name": "Tanmay Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26699089?v=4",
+      "profile": "https://github.com/PseudoNerd",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

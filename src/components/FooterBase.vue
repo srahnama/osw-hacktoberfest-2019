@@ -3,9 +3,8 @@
     <div class="container">
       <div class="py-4">
         <p class="m-0 text-center">
-          GitHub:
-          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019">github.com/OSWeekends/osw-hacktoberfest-2019</a>
-        </p>
+          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019"><i class="fab fa-github fa-2x" href="https://github.com/OSWeekends/osw-hacktoberfest-2019" ></i></a>
+          </p>
       </div>
     </div>
   </footer>

@@ -16,6 +16,16 @@
         "content",
         "infra"
       ]
+    },
+    {
+      "login": "CodingCarlos",
+      "name": "Carlos Hernandez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7394623?v=4",
+      "profile": "https://github.com/CodingCarlos",
+      "contributions": [
+        "example",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

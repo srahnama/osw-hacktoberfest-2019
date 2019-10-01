@@ -1,6 +1,6 @@
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
-The following is a set of guidelines for contributing to browser-apis.
+The following is a set of guidelines for contributing to `osw-hacktoberfest-2019`.
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 #### Table of Contents  
@@ -8,14 +8,12 @@ These are mostly guidelines, not rules. Use your best judgment, and feel free to
 - [What should I know before I get started?](#what-should-i-know-before-i-get-started)
 
 
-
 ## Code of Conduct
 This project and everyone participating in it is governed by this [Code of Conduct](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md).  
-By participating, you are expected to uphold this code. Please report unacceptable behavior to `jorge.baumann.aguilar@gmail.com`.
+By participating, you are expected to uphold this code. Please report unacceptable behavior to `osweekends@gmail.com`.
 
 ## What should I know before I get started?
-- It's built with [Vue.js](https://github.com/vuejs/vue) framework and [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue).
-- If some css styling is required, must be done using `stylus` in the `style` block of each component
+- This project is built on top of [Vue.js](https://github.com/vuejs/vue) and [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue)
 - Pull Request should be made to `develop` branch
 
 ## How Can I Contribute?
@@ -27,7 +25,8 @@ Following these guidelines helps maintainers and the community understand your r
 reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
 Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. 
-When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out the required template, the information it asks for helps us resolve issues faster.
+When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). 
+Fill out the required template, the information it asks for helps us resolve issues faster.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
@@ -77,8 +76,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
 * **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 * **Describe the current behavior** and **explain which behavior you expected to see instead** and why.
-* May **include screenshots and animated GIFs** which help you demonstrate the steps or point out the suggestion. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
-* Try to **explain why this enhancement would be useful or funny**
+* May **include screenshots and animated GIFs** which help you demonstrate the steps or point out the suggestion.
 * **Specify the name and version of the OS you're using.**
 
 ### Your First Code Contribution
@@ -87,24 +85,16 @@ Unsure where to begin contributing? You can start by looking through `good-first
 
 * [Beginner issues][https://github.com/baumannzone/browser-apis/labels/good%20first%20issue] - issues which should require a few lines of code.
 
-Issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have.
-
-#### Local development
-
-Almost all new features must be developed locally.
-
 ### Pull Requests
 
 The process described here has several goals:
-
-- Maintain repository's quality
-- Fix problems
 
 Please follow these steps to have your contribution considered by the maintainers:
 
 1. Follow all instructions in [the template](PULL_REQUEST_TEMPLATE.md)
 2. Follow the [styleguides](#styleguides)
-3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
+3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing 
+<details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
@@ -140,21 +130,25 @@ All JavaScript must adhere to [JavaScript Standard Style](https://standardjs.com
 
 * Prefer the object spread operator (`{...anotherObj}`) to `Object.assign()`
 * Place requires in the following order:
-    * Built in Node Modules (such as `path`)
-    * Local files (using @)
-* Place class properties in the following order:
+    * First, 3rd party libraries
+    * Then files (by default, using @)
+
+
+### CSS Styleguide
+* As Bootstrap it's installed in our project, you may not need a lot of css work. Please, check [this link](https://getbootstrap.com/docs/4.3/utilities/borders/) before adding styles.
+It contains a lot of extra classes as border, positions, colors, colors, etc. 
+* If some manual css styling is required, must be done using `stylus` in the `style` block of each component
+
 
 
 ## Additional Notes
 
 ### Issue and Pull Request Labels
 
-This section lists the labels we use to help us track and manage issues and pull requests.
-
 [GitHub search](https://help.github.com/articles/searching-issues/) makes it easy to use labels for finding groups of issues or pull requests you're interested in.  
-We  encourage you to read about [other search filters](https://help.github.com/articles/searching-issues/) which will help you write more focused queries.
+We encourage you to read about [other search filters](https://help.github.com/articles/searching-issues/) which will help you write more focused queries.
 
 The labels are loosely grouped by their purpose, but it's not required that every issue have a label from every group or that an issue can't have more than one label from the same group.
 
-Please open an issue if you have suggestions for new labels, and if you notice some labels are missing on some repositories, then please open an issue on that repository.
+> Please open an issue if you have suggestions for new labels, and if you notice some labels are missing on some repositories, then please open an issue on that repository.
 

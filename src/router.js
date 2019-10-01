@@ -6,6 +6,7 @@ Vue.use(Router)
 const routerOptions = [
   { path: '/', name: 'Home', viewPath: 'Home' },
   { path: '/about', name: 'About', viewPath: 'About' },
+  { path: '/stats', name: 'Stats', viewPath: 'Stats' },
   { path: '/generate', name: 'Generate', viewPath: 'Generate' }
 ]
 

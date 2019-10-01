@@ -3,9 +3,9 @@
     <div class="container">
       <div class="py-4">
         <p class="m-0 text-center">
-          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019"><i class="fab fa-github fa-2x"></i></a>
-          <a href="https://twitter.com/os_weekends"><i class="fab fa-twitter fa-2x"></i></a>
-          <a href="https://meetup.com/es-ES/Open-Source-Weekends"><i class="fab fa-meetup fa-2x"></i></a>
+          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019"><i class="fab fa-github m-2"></i></a>
+          <a href="https://twitter.com/os_weekends"><i class="fab fa-twitter m-2"></i></a>
+          <a href="https://meetup.com/es-ES/Open-Source-Weekends"><i class="fab fa-meetup m-2"></i></a>
           </p>
       </div>
     </div>
@@ -23,12 +23,6 @@ export default {
   position fixed
   bottom 0
   width 100%
-
-i
-  margin 2%
-
-.fab
-  shadows : 10px 10px #000
 
 .fa-github
   color #242a2e

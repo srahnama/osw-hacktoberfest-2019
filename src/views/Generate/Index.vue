@@ -40,7 +40,10 @@
           </b-form-group>
         </b-col>
         <b-col sm="12" class="d-flex justify-content-end">
-          <b-button class="button-custom-width" type="submit" variant="primary">Generate JSON!</b-button>
+          <b-button class="button-custom-width" type="submit" variant="primary" :disabled="buttonIsLoading">
+            <span v-if="buttonIsLoading"><b-spinner label="Loading..."></b-spinner></span>
+            <span v-else>Generate JSON!</span>
+          </b-button>
         </b-col>
       </b-row>
     </form>
@@ -70,7 +73,8 @@ export default {
         color: '',
         username: '',
         avatarUrl: ''
-      }
+      },
+      buttonIsLoading: false
     }
   },
   computed: {
@@ -84,8 +88,10 @@ export default {
   methods: {
     generateJson (ev) {
       // this.hexToRGB(this.form.color)
+      this.buttonIsLoading = true
       this.getGithubUser(this.form.username)
         .then((res) => {
+          this.buttonIsLoading = false
           console.log(res)
           this.copyModel.name = res.data.name
           this.copyModel.color = this.form.color
@@ -93,7 +99,32 @@ export default {
           this.copyModel.avatarUrl = res.data.avatar_url
         })
         .catch((err) => {
-          console.log(err)
+          this.buttonIsLoading = false
+          console.log(JSON.stringify(err.code))
+          if (err.response) {
+            /*
+             * The request was made and the server responded with a
+             * status code that falls out of the range of 2xx
+             */
+            console.log(err.response.data)
+            console.log(err.response.status)
+            console.log(err.response.headers)
+          } else if (err.request) {
+            /*
+             * The request was made but no response was received, `err.request`
+             * is an instance of XMLHttpRequest in the browser and an instance
+             * of http.ClientRequest in Node.js
+             */
+            console.log(err.request)
+          } else {
+            // Something happened in setting up the request and triggered an err
+            console.log('err', err.message)
+          }
+          this.$bvToast.toast(`${err.message} 😅`, {
+            title: 'Wooops!',
+            variant: 'danger',
+            autoHideDelay: 5000
+          })
           this.copyModel = { name: '', color: '', username: '', avatarUrl: '' }
         })
     },

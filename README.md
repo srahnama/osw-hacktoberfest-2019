@@ -1,4 +1,4 @@
-# OSW Hacktoberfest 2019 
+# 🔥 OSW Hacktoberfest 2019 🎃
 
 [![Style](https://img.shields.io/badge/code%20style-standard-brightgreen?style=flat-square)](https://img.shields.io/badge/code%20style-standard-brightgreen?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/pulls)

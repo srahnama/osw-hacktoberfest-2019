@@ -3,10 +3,16 @@
     <div class="container">
       <div class="py-4">
         <p class="m-0 text-center">
-          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019"><i class="fab fa-github m-2"></i></a>
-          <a href="https://twitter.com/os_weekends"><i class="fab fa-twitter m-2"></i></a>
-          <a href="https://meetup.com/es-ES/Open-Source-Weekends"><i class="fab fa-meetup m-2"></i></a>
-          </p>
+          <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019" target="_blank">
+            <i class="fab fa-github m-2"></i>
+          </a>
+          <a href="https://twitter.com/os_weekends" target="_blank">
+            <i class="fab fa-twitter m-2"></i>
+          </a>
+          <a href="https://meetup.com/es-ES/Open-Source-Weekends" target="_blank">
+            <i class="fab fa-meetup m-2"></i>
+          </a>
+        </p>
       </div>
     </div>
   </footer>

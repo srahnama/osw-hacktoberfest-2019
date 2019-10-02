@@ -11,6 +11,8 @@
 
 > Contribute by adding yourself to the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/src/assets/contributors.json) file.  
 > Go to the [__generate__](https://osw-hacktoberfest19.netlify.com/#/generate) page and fill the form in to get your data, then paste your copied code at the end of the file 🥳
+>
+> More info in the [about](https://osw-hacktoberfest19.netlify.com/#/generate) page
 
 ![image](./src/assets/generate.png)
 

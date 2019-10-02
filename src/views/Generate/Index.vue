@@ -3,6 +3,7 @@
     <header class="text-center mb-5">
       <h2> Generate JSON </h2>
       <p class="lead text-muted">Fill the form in to generate your JSON. Ready to copy & paste!</p>
+      <ShareTwitterBtn/>
     </header>
 
     <form @submit.prevent="generateJson">
@@ -59,9 +60,11 @@
 
 <script>
 import axios from 'axios'
+import ShareTwitterBtn from '@/components/ShareTwitterBtn'
 
 export default {
   name: 'Generate',
+  components: { ShareTwitterBtn },
   data () {
     return {
       form: {
@@ -76,6 +79,13 @@ export default {
       },
       buttonIsLoading: false
     }
+  },
+  mounted () {
+    let twitterScript = document.createElement('script')
+    twitterScript.setAttribute('async', '')
+    twitterScript.setAttribute('src', 'https://platform.twitter.com/widgets.js')
+    twitterScript.setAttribute('charset', 'utf-8')
+    document.body.appendChild(twitterScript)
   },
   computed: {
     yourColor () {

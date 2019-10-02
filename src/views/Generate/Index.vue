@@ -3,7 +3,7 @@
     <header class="text-center mb-5">
       <h2> Generate JSON </h2>
       <p class="lead text-muted">Fill the form in to generate your JSON. Ready to copy & paste!</p>
-      <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Hey, join us and start contributing now!" data-url="https://github.com/OSWeekends/osw-hacktoberfest-2019" data-hashtags="Hacktoberfest" data-show-count="false"></a>
+      <ShareTwitterBtn/>
     </header>
 
     <form @submit.prevent="generateJson">
@@ -60,9 +60,11 @@
 
 <script>
 import axios from 'axios'
+import ShareTwitterBtn from '@/components/ShareTwitterBtn'
 
 export default {
   name: 'Generate',
+  components: { ShareTwitterBtn },
   data () {
     return {
       form: {

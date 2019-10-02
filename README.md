@@ -17,6 +17,11 @@
 
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
 
+## Useful?
+
+- Help us with a star! ⭐️ 
+- Say thanks <3
+
 ## Project setup
 ```
 npm install

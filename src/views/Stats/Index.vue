@@ -6,6 +6,9 @@
       <ColorWidget class="ml-2" title="Average Color" :value="averageColor" />
       <ColorGridWidget class="mt-4" :colors="colors" />
     </section>
+    <template v-else>
+      <p>Loading...</p>
+    </template>
   </div>
 </template>
 

@@ -6,7 +6,7 @@
         <img :src="contributor.avatarUrl" :alt="contributor.name + ' picture'" class="mr-3 rounded-circle" height="70px">
         <div class="media-body">
           <h5><a class="text-body" :href="ghLink">{{ contributor.name }}</a></h5>
-          <p class="m-0"> Color code: <a :href="theColorApiLink" target="_blank">{{ contributor.color }}</a></p>
+          <p class="m-0"> Fav. color: <a :href="theColorApiLink" target="_blank">{{ contributor.color }}</a></p>
         </div>
       </div>
     </div>

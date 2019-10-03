@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/PseudoNerd"><img src="https://avatars3.githubusercontent.com/u/26699089?v=4" width="100px;" alt="Tanmay Kumar"/><br /><sub><b>Tanmay Kumar</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=PseudoNerd" title="Code">💻</a></td>
     <td align="center"><a href="http://agusnez.github.io"><img src="https://avatars1.githubusercontent.com/u/15832553?v=4" width="100px;" alt="Agustín Núñez"/><br /><sub><b>Agustín Núñez</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Agusnez" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jorge-bajana"><img src="https://avatars2.githubusercontent.com/u/47319388?v=4" width="100px;" alt="Jorge Bajaña"/><br /><sub><b>Jorge Bajaña</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=jorge-bajana" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DanielOrmeno"><img src="https://avatars3.githubusercontent.com/u/7246206?v=4" width="100px;" alt="Daniel Ormeño"/><br /><sub><b>Daniel Ormeño</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=DanielOrmeno" title="Code">💻</a> <a href="#ideas-DanielOrmeno" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 

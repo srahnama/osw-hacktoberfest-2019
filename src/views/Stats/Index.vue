@@ -1,28 +1,56 @@
 <template>
   <div class="stats">
-    <h1 class="text-center">Stats Page</h1>
+    <HeaderTitle title="Contributors stats 🚀" />
+    <section class="row" v-if="loaded">
+      <StatsWidget class="mr-2" title="Contributors" :value="contributorsCount" />
+      <ColorWidget class="ml-2" title="Average Color" :value="averageColor" />
+      <ColorGridWidget class="mt-4" :colors="colors" />
+    </section>
   </div>
 </template>
 
 <script>
+import HeaderTitle from '@/components/HeaderTitle'
+import contributors from '@/assets/contributors.json'
+import StatsWidget from './StatsWidget'
+import ColorWidget from './ColorWidget'
+import ColorGridWidget from './ColorGridWidget'
+
+import { colorHelper } from '@/modules/color'
+
 export default {
   name: 'Stats',
+  components: { HeaderTitle, ColorWidget, ColorGridWidget, StatsWidget },
+  data: () => ({
+    contributors,
+    colorHelper,
+    loaded: false,
+    averageColor: undefined,
+    contributorsCount: contributors.length.toString()
+  }),
+  async mounted () {
+    this.averageColor = await this.getRGBAverage()
+    this.loaded = true
+  },
   methods: {
-    hexToRGB (hex) {
-      // Delete '#'
-      if (hex.charAt(0) === '#') {
-        hex = hex.substr(1)
-      }
-      const r = parseInt(hex.substring(0, 2), 16)
-      const g = parseInt(hex.substring(2, 4), 16)
-      const b = parseInt(hex.substring(4, 6), 16)
-      const colorRGB = `rgba(${r}, ${g}, ${b}, 1)`
-      console.log(colorRGB)
+    async getRGBAverage () {
+      const colors = this.colors.map(c => c.replace(/#/g, ''))
+      const rgbValue = await this.colorHelper.getRGBAverageFromHex(colors)
+      const jsonColor = await this.colorHelper.getJsonColor(rgbValue, 'rgb')
+
+      return jsonColor.hex.value
+    }
+  },
+  computed: {
+    colors () {
+      return this.contributors.map(c => c.color)
     }
   }
 }
 </script>
 
 <style lang="stylus">
-
+.stats-dashboard
+  display: flex
+  justify-content: space-evenly
 </style>

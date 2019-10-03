@@ -5,7 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/OSWeekends/osw-hacktoberfest-2019?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/commits/master)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -78,6 +78,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jorge-bajana"><img src="https://avatars2.githubusercontent.com/u/47319388?v=4" width="100px;" alt="Jorge Bajaña"/><br /><sub><b>Jorge Bajaña</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=jorge-bajana" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/DanielOrmeno"><img src="https://avatars3.githubusercontent.com/u/7246206?v=4" width="100px;" alt="Daniel Ormeño"/><br /><sub><b>Daniel Ormeño</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=DanielOrmeno" title="Code">💻</a> <a href="#ideas-DanielOrmeno" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/sergitxu"><img src="https://avatars3.githubusercontent.com/u/16776855?v=4" width="100px;" alt="Sergitxu"/><br /><sub><b>Sergitxu</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=sergitxu" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ElenaMLopez"><img src="https://avatars0.githubusercontent.com/u/27022503?v=4" width="100px;" alt="Elena Mateos López"/><br /><sub><b>Elena Mateos López</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ElenaMLopez" title="Code">💻</a></td>
   </tr>
 </table>
 

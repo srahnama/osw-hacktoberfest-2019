@@ -9,10 +9,12 @@
     <template v-else>
       <p>Loading...</p>
     </template>
+
   </div>
 </template>
 
 <script>
+
 import HeaderTitle from '@/components/HeaderTitle'
 import contributors from '@/assets/contributors.json'
 import StatsWidget from './StatsWidget'
@@ -30,6 +32,7 @@ export default {
     loaded: false,
     averageColor: undefined,
     contributorsCount: contributors.length.toString()
+
   }),
   async mounted () {
     this.averageColor = await this.getRGBAverage()

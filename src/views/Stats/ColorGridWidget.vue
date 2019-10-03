@@ -3,9 +3,9 @@
     <h4>Color Grid</h4>
     <div class="row">
       <div class="color-tile"
-          v-for="color in uniqueColors"
-          :key="color"
-          :style="{ backgroundColor: color }"/>
+        v-for="color in uniqueColors"
+        :key="color"
+        :style="{ backgroundColor: color }"></div>
     </div>
   </section>
 </template>
@@ -14,7 +14,10 @@
 export default {
   name: 'ColorGrid',
   props: {
-    colors: { type: Array, required: true }
+    colors: {
+      type: Array,
+      required: true
+    }
   },
   data: () => ({ uniqueColors: undefined }),
   mounted () {
@@ -24,9 +27,9 @@ export default {
 </script>
 
 <style lang="stylus">
-.color-tile
-  height: 1em;
-  width: 1em;
-  min-height: 0.1em;
-  boder: solid 1px white;
+  .color-tile
+    height 1em
+    width 1em
+    min-height 0.1em
+    border solid 1px white
 </style>

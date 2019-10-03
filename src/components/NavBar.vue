@@ -4,6 +4,8 @@
     |
     <router-link to="/generate">Generate</router-link>
     |
+    <router-link to="/stats">Stats</router-link>
+    |
     <router-link to="/about">About</router-link>
   </div>
 </template>

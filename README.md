@@ -16,6 +16,10 @@
 
 ![image](./src/assets/generate.png)
 
+>
+> ⚠️ Pull Request must be made into `develop` branch ⚠
+>
+
 
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
 

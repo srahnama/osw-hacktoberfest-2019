@@ -53,6 +53,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "DanielOrmeno",
+      "name": "Daniel Ormeño",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7246206?v=4",
+      "profile": "https://github.com/DanielOrmeno",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

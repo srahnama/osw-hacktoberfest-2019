@@ -16,8 +16,7 @@
 
 ![image](./src/assets/generate.png)
 
->
-> ⚠️ Pull Request must be made into `develop` branch ⚠
+> 👉👉👉 Pull Request must be made from `develop` branch into `develop` branch 👈👈👈👈
 >
 
 

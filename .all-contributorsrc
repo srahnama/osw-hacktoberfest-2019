@@ -90,6 +90,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "pashcovich",
+      "name": "Ilya Sosnovsky",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4571166?v=4",
+      "profile": "https://github.com/pashcovich",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

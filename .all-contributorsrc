@@ -63,6 +63,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "sergitxu",
+      "name": "Sergitxu",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16776855?v=4",
+      "profile": "https://github.com/sergitxu",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

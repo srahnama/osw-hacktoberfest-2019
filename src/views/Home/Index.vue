@@ -1,13 +1,13 @@
 <template>
   <div class="home">
-    <HeaderTitle />
+    <HeaderTitle title="Awesome Contributors ✨" />
     <Contributors />
   </div>
 </template>
 
 <script>
 import Contributors from './Contributors.vue'
-import HeaderTitle from './HeaderTitle'
+import HeaderTitle from '@/components//HeaderTitle'
 
 export default {
   name: 'Home',

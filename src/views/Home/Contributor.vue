@@ -1,7 +1,7 @@
 <template>
   <div class="col-md-6 mb-3">
     <div class="contributor shadow p-3 bg-white rounded">
-      <span class="color-box" :style="{ backgroundColor: contributor.color}"></span>
+      <ColorBox :color="contributor.color" />
       <div class="media mr-4">
         <img :src="contributor.avatarUrl" :alt="contributor.name + ' picture'" class="mr-3 rounded-circle" height="70px">
         <div class="media-body">
@@ -14,8 +14,11 @@
 </template>
 
 <script>
+import ColorBox from '@/components/ColorBox'
+
 export default {
   name: 'Contributor',
+  components: { ColorBox },
   props: {
     contributor: {
       required: true,
@@ -37,12 +40,5 @@ export default {
 <style lang="stylus">
 .contributor
   position: relative
-  .color-box
-    display block
-    position absolute
-    width 30px
-    height 100%
-    top 0
-    right 30px
 
 </style>

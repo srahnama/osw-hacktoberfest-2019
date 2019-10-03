@@ -1,10 +1,12 @@
 import { shallowMount } from '@vue/test-utils'
-import HeaderTitle from '@/views/Home/HeaderTitle.vue'
+import HeaderTitle from '@/components/HeaderTitle.vue'
 
 describe('HeaderTitle.vue', () => {
   it('Render title', () => {
-    const msg = 'Awesome Contributors ✨'
-    const wrapper = shallowMount(HeaderTitle, {})
-    expect(wrapper.text()).toMatch(msg)
+    const title = 'Awesome Contributors ✨'
+    const wrapper = shallowMount(HeaderTitle, {
+      propsData: { title }
+    })
+    expect(wrapper.text()).toMatch(title)
   })
 })

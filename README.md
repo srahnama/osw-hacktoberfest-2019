@@ -1,5 +1,6 @@
 # 🔥 OSW Hacktoberfest 2019 🎃
 
+[![Build Status](https://action-badges.now.sh/OSWeekends/osw-hacktoberfest-2019?action=Node%20CI)](https://github.com/OSWeekends/osw-hacktoberfest-2019/actions)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bb376a42-74ce-4038-ad1c-902a61c40550/deploy-status)](https://app.netlify.com/sites/osw-hacktoberfest19/deploys)
 [![Style](https://img.shields.io/badge/code%20style-standard-brightgreen?style=flat-square)](https://img.shields.io/badge/code%20style-standard-brightgreen?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/pulls)

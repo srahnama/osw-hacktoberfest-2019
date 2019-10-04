@@ -6,7 +6,14 @@
         <img :src="contributor.avatarUrl" :alt="contributor.name + ' picture'" class="mr-3 rounded-circle" height="70px">
         <div class="media-body">
           <h5><a class="text-body" :href="ghLink">{{ contributor.name }}</a></h5>
-          <p class="m-0"> Color code: <a :href="theColorApiLink" target="_blank">{{ contributor.color }}</a></p>
+          <div class="row">
+            <div class="col-md-6 col-xl-12">
+              <p class="m-0"> Color code: <a :href="theColorApiLink" target="_blank">{{ contributor.color }}</a></p>
+            </div>
+            <div class="col-md-6 col-xl-12">
+              <p class="m-0 text-body"> Location: <a :href="theLocation" target="_blank">{{ contributor.location }}</a></p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -32,6 +39,10 @@ export default {
     },
     ghLink () {
       return `https://github.com/${this.contributor.username}/`
+    },
+    theLocation () {
+      const location = this.contributor.location
+      return `https://www.google.com/maps/search/?api=1&query=${location}`
     }
   }
 }

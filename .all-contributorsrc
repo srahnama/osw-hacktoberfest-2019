@@ -53,6 +53,52 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "DanielOrmeno",
+      "name": "Daniel Ormeño",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7246206?v=4",
+      "profile": "https://github.com/DanielOrmeno",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "sergitxu",
+      "name": "Sergitxu",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16776855?v=4",
+      "profile": "https://github.com/sergitxu",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ElenaMLopez",
+      "name": "Elena Mateos López",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/27022503?v=4",
+      "profile": "https://github.com/ElenaMLopez",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "marciokuroki",
+      "name": "marciokuroki",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13626200?v=4",
+      "profile": "https://github.com/marciokuroki",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "pashcovich",
+      "name": "Ilya Sosnovsky",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4571166?v=4",
+      "profile": "https://github.com/pashcovich",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -12,6 +12,8 @@
           <a href="https://meetup.com/es-ES/Open-Source-Weekends" target="_blank">
             <i class="fab fa-meetup m-2"></i>
           </a>
+          <br>
+          <span style="color:#737373;">Powered by OSWeekends</span>
         </p>
       </div>
     </div>

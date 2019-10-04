@@ -11,6 +11,8 @@
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
+## https://osw-hacktoberfest19.netlify.com/#/
+
 > Contribute by adding yourself to the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/src/assets/contributors.json) file.  
 > Go to the [__generate__](https://osw-hacktoberfest19.netlify.com/#/generate) page and fill the form in to get your data, then paste your copied code at the end of the file 🥳
 >

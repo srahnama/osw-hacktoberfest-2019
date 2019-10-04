@@ -18,8 +18,11 @@
 
 ![image](./src/assets/generate.png)
 
-> 👉👉👉 Pull Request must be made from `develop` branch into `develop` branch 👈👈👈👈
->
+## How to contribute?
+
+1 - Go to [`develop`](https://github.com/OSWeekends/osw-hacktoberfest-2019/tree/develop) branch.  
+2 - Add yourself at the end of the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/src/assets/contributors.json) file.  
+3 - Ask to merge your change (from `develop`) into `develop` branch.  
 
 
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃

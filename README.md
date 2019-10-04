@@ -24,13 +24,18 @@
 2 - Add yourself at the end of the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/src/assets/contributors.json) file.  
 3 - Ask to merge your change (from `develop`) into `develop` branch.  
 
+#### Do you want more?
+- Check the list of [issues](https://github.com/OSWeekends/osw-hacktoberfest-2019/issues) and write a comment saying you want to take it.
+- What would you like to see in our app? Are you missing a feature? Feel free to open a new issue asking for it!
+
 
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
 
 ## Useful?
 
 - Help us with a star! ⭐️ 
-- Say thanks <3
+- Spread the word. 💙 Tweet about this project with our [share on twitter button](https://osw-hacktoberfest19.netlify.com/#/generate)
+- Say [thanks](https://github.com/OSWeekends/osw-hacktoberfest-2019/issues/new?assignees=&labels=%3C3&template=say-thanks-.md&title=) <3
 
 ## Project setup
 ```

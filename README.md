@@ -11,7 +11,9 @@
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
+
 ## https://osw-hacktoberfest19.netlify.com/#/
+
 
 > Contribute by adding yourself to the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/src/assets/contributors.json) file.  
 > Go to the [__generate__](https://osw-hacktoberfest19.netlify.com/#/generate) page and fill the form in to get your data, then paste your copied code at the end of the file 🥳
@@ -26,12 +28,14 @@
 2 - Add yourself at the end of the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/develop/src/assets/contributors.json) file.  
 3 - Ask to merge your change (from `develop`) into `develop` branch.  
 
+__Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
+
 #### Do you want more?
 - Check the list of [issues](https://github.com/OSWeekends/osw-hacktoberfest-2019/issues) and write a comment saying you want to take it.
 - What would you like to see in our app? Are you missing a feature? Feel free to open a new issue asking for it!
 
+> Read more about contributing [here](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CONTRIBUTING.md) 😊
 
-__Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
 
 ## Useful?
 

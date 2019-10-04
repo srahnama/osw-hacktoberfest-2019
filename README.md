@@ -7,11 +7,15 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/OSWeekends/osw-hacktoberfest-2019?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/commits/master)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
-> Contribute by adding yourself to the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/src/assets/contributors.json) file.  
+
+## https://osw-hacktoberfest19.netlify.com/#/
+
+
+> Contribute by adding yourself to the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/develop/src/assets/contributors.json) file.  
 > Go to the [__generate__](https://osw-hacktoberfest19.netlify.com/#/generate) page and fill the form in to get your data, then paste your copied code at the end of the file 🥳
 >
 > More info in the [about](https://osw-hacktoberfest19.netlify.com/#/generate) page
@@ -21,16 +25,23 @@
 ## How to contribute?
 
 1 - Go to [`develop`](https://github.com/OSWeekends/osw-hacktoberfest-2019/tree/develop) branch.  
-2 - Add yourself at the end of the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/src/assets/contributors.json) file.  
+2 - Add yourself at the end of the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/develop/src/assets/contributors.json) file.  
 3 - Ask to merge your change (from `develop`) into `develop` branch.  
 
-
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
+
+#### Do you want more?
+- Check the list of [issues](https://github.com/OSWeekends/osw-hacktoberfest-2019/issues) and write a comment saying you want to take it.
+- What would you like to see in our app? Are you missing a feature? Feel free to open a new issue asking for it!
+
+> Read more about contributing [here](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CONTRIBUTING.md) 😊
+
 
 ## Useful?
 
 - Help us with a star! ⭐️ 
-- Say thanks <3
+- Spread the word. 💙 Tweet about this project with our [share on twitter button](https://osw-hacktoberfest19.netlify.com/#/generate)
+- Say [thanks](https://github.com/OSWeekends/osw-hacktoberfest-2019/issues/new?assignees=&labels=%3C3&template=say-thanks-.md&title=) <3
 
 ## Project setup
 ```
@@ -88,6 +99,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ElenaMLopez"><img src="https://avatars0.githubusercontent.com/u/27022503?v=4" width="100px;" alt="Elena Mateos López"/><br /><sub><b>Elena Mateos López</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ElenaMLopez" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/marciokuroki"><img src="https://avatars1.githubusercontent.com/u/13626200?v=4" width="100px;" alt="marciokuroki"/><br /><sub><b>marciokuroki</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=marciokuroki" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/pashcovich"><img src="https://avatars3.githubusercontent.com/u/4571166?v=4" width="100px;" alt="Ilya Sosnovsky"/><br /><sub><b>Ilya Sosnovsky</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=pashcovich" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.javiperezdepedro.com"><img src="https://avatars3.githubusercontent.com/u/662287?v=4" width="100px;" alt="Javi Pérez"/><br /><sub><b>Javi Pérez</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=javimostoles" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/igihcksn"><img src="https://avatars2.githubusercontent.com/u/22608147?v=4" width="100px;" alt="Inggih Wicaksono"/><br /><sub><b>Inggih Wicaksono</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=igihcksn" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DeadReBorn"><img src="https://avatars2.githubusercontent.com/u/23313785?v=4" width="100px;" alt="DeadReBorn"/><br /><sub><b>DeadReBorn</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=DeadReBorn" title="Code">💻</a> <a href="#business-DeadReBorn" title="Business development">💼</a> <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/issues?q=author%3ADeadReBorn" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://bloomod.com"><img src="https://avatars3.githubusercontent.com/u/1575830?v=4" width="100px;" alt="Sergio Morcuende"/><br /><sub><b>Sergio Morcuende</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=smorcuend" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Lumary2"><img src="https://avatars0.githubusercontent.com/u/46068592?v=4" width="100px;" alt="Lumary2"/><br /><sub><b>Lumary2</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Lumary2" title="Code">💻</a></td>
   </tr>
 </table>
 

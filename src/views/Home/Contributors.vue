@@ -1,24 +1,24 @@
 <template>
   <div class="row">
     <Contributor
-      v-for="contributor in contributors"
+      v-for="(contributor, index) in contributors"
       :key="contributor.username"
-      :contributor="contributor" />
+      :contributor="{...contributor, index}" />
   </div>
 </template>
 
 <script>
 import Contributor from './Contributor'
-import contributors from '../../assets/contributors.json'
 
 export default {
   name: 'Contributors',
   components: {
     Contributor
   },
-  data () {
-    return {
-      contributors
+  props: {
+    contributors: {
+      required: true,
+      type: Array
     }
   }
 }

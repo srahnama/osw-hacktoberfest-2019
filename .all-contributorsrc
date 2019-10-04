@@ -99,6 +99,53 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "javimostoles",
+      "name": "Javi Pérez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/662287?v=4",
+      "profile": "http://www.javiperezdepedro.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "igihcksn",
+      "name": "Inggih Wicaksono",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22608147?v=4",
+      "profile": "https://github.com/igihcksn",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DeadReBorn",
+      "name": "DeadReBorn",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23313785?v=4",
+      "profile": "https://github.com/DeadReBorn",
+      "contributions": [
+        "code",
+        "business",
+        "bug"
+      ]
+    },
+    {
+      "login": "smorcuend",
+      "name": "Sergio Morcuende",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1575830?v=4",
+      "profile": "http://bloomod.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Lumary2",
+      "name": "Lumary2",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/46068592?v=4",
+      "profile": "https://github.com/Lumary2",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

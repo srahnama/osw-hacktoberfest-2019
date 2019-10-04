@@ -18,7 +18,8 @@ export default {
   },
   computed: {
     colorApiLink () {
-      return `https://www.thecolorapi.com/id?format=html&hex=${this.value}`
+      const noHashColor = this.value.substr(1)
+      return `https://www.thecolorapi.com/id?format=html&hex=${noHashColor}`
     }
   }
 }

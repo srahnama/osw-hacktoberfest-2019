@@ -1,15 +1,16 @@
 <template>
   <div class="home">
     <HeaderTitle title="Awesome Contributors ✨" />
-    <SearchForm/>
-    <Contributors />
+    <SearchForm @onsearch="searchChange"/>
+    <Contributors :contributors="contributors"/>
   </div>
 </template>
 
 <script>
 import Contributors from './Contributors.vue'
-import HeaderTitle from '@/components//HeaderTitle'
 import SearchForm from './SearchForm'
+import HeaderTitle from '@/components//HeaderTitle'
+import contributors from '@/assets/contributors.json'
 
 export default {
   name: 'Home',
@@ -17,6 +18,17 @@ export default {
     SearchForm,
     HeaderTitle,
     Contributors
+  },
+  data () {
+    return {
+      contributors
+    }
+  },
+  methods: {
+    searchChange (val) {
+      // Filter list
+      console.log('SEARCH VAL: ', val)
+    }
   }
 }
 </script>

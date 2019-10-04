@@ -1,12 +1,22 @@
 <template>
-  <b-form>
-    <b-form-group id="fieldset-1" description="Let us know your name." label="Enter your name" label-for="search">
-      <b-form-input id="search" v-model="name" trim></b-form-input>
+  <div>
+    <b-form-group id="fieldset-1" description="Search user or name." label="Search" label-for="search">
+      <b-form-input id="search" v-model="search" trim @input="onInput"></b-form-input>
     </b-form-group>
-  </b-form>
+  </div>
 </template>
 <script>
 export default {
-  name: 'SearchForm'
+  name: 'SearchForm',
+  data () {
+    return {
+      search: ''
+    }
+  },
+  methods: {
+    onInput (val) {
+      this.$emit('onsearch', val)
+    }
+  }
 }
 </script>

@@ -1,6 +1,7 @@
 <template>
   <div class="col-md-6 mb-3">
     <div class="contributor shadow p-3 bg-white rounded">
+      <span class="floating-idx">{{ contributor.index + 1 }}</span>
       <ColorBox :color="contributor.color" />
       <div class="media mr-4">
         <img :src="contributor.avatarUrl" :alt="contributor.name + ' picture'" class="mr-3 rounded-circle" height="70px">
@@ -51,5 +52,10 @@ export default {
 <style lang="stylus">
 .contributor
   position: relative
-
+  .floating-idx
+    position absolute
+    right 4px
+    top 4px
+    font-size 12px
+    color #e8e8e8
 </style>

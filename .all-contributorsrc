@@ -117,6 +117,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "DeadReBorn",
+      "name": "DeadReBorn",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23313785?v=4",
+      "profile": "https://github.com/DeadReBorn",
+      "contributions": [
+        "code",
+        "business",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,

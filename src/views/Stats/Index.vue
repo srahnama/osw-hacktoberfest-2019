@@ -6,16 +6,14 @@
       <ColorWidget class="ml-2" title="Average Color" :value="averageColor" />
       <ColorGridWidget class="mt-4" :colors="colors" />
     </section>
-    <template v-else>
-      <p>Loading...</p>
-    </template>
-
+    <Loader v-else />
   </div>
 </template>
 
 <script>
 
 import HeaderTitle from '@/components/HeaderTitle'
+import Loader from '@/components/Loader'
 import contributors from '@/assets/contributors.json'
 import StatsWidget from './StatsWidget'
 import ColorWidget from './ColorWidget'
@@ -25,7 +23,7 @@ import { colorHelper } from '@/modules/color'
 
 export default {
   name: 'Stats',
-  components: { HeaderTitle, ColorWidget, ColorGridWidget, StatsWidget },
+  components: { HeaderTitle, ColorWidget, ColorGridWidget, StatsWidget, Loader },
   data: () => ({
     contributors,
     colorHelper,

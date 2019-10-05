@@ -7,7 +7,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/OSWeekends/osw-hacktoberfest-2019?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/commits/master)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -111,6 +111,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/adiagr"><img src="https://avatars0.githubusercontent.com/u/21157331?v=4" width="100px;" alt="Aditya Agrawal"/><br /><sub><b>Aditya Agrawal</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=adiagr" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jnat01"><img src="https://avatars0.githubusercontent.com/u/26845642?v=4" width="100px;" alt="jnat01"/><br /><sub><b>jnat01</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=jnat01" title="Code">💻</a></td>
     <td align="center"><a href="https://aitordb.com"><img src="https://avatars1.githubusercontent.com/u/6829526?v=4" width="100px;" alt="AitorDB"/><br /><sub><b>AitorDB</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=AitorDB" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mewcifur28"><img src="https://avatars3.githubusercontent.com/u/39668499?v=4" width="100px;" alt="Ishita Gambhir"/><br /><sub><b>Ishita Gambhir</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=mewcifur28" title="Code">💻</a></td>
   </tr>
 </table>
 

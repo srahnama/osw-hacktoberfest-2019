@@ -1,6 +1,21 @@
 [
-  { "name": "Jorge Baumann", "color": "#B4DA55", "username": "baumannzone", "avatarUrl": "https://avatars0.githubusercontent.com/u/5422102?v=4" },
-  { "name": "Agustín Núñez", "color": "#3a88fe", "username": "agusnez", "avatarUrl": "https://avatars1.githubusercontent.com/u/15832553?v=4" },
-  { "name": "Jorge Bajaña",  "color": "#ec3300", "username": "jorge-bajana",  "avatarUrl": "https://avatars2.githubusercontent.com/u/47319388?v=4" },
-  { "name": "Manrique Lopez", "color": "#ff9900", "username": "jsmanrique", "avatarUrl": "https://avatars0.githubusercontent.com/u/1178305?v=4"}
+  { "name": "Jorge Baumann", "color": "#B4DA55", "username": "baumannzone", "avatarUrl": "https://avatars0.githubusercontent.com/u/5422102?v=4", "location": "404" },
+  { "name": "Agustín Núñez", "color": "#3a88fe", "username": "agusnez", "avatarUrl": "https://avatars1.githubusercontent.com/u/15832553?v=4", "location": "Seville, Spain" },
+  { "name": "Jorge Bajaña",  "color": "#ec3300", "username": "jorge-bajana",  "avatarUrl": "https://avatars2.githubusercontent.com/u/47319388?v=4", "location": "Madrid" },
+  { "name": "Daniel Ormeño", "color": "#1ea7da", "username": "danielormeno", "avatarUrl": "https://avatars3.githubusercontent.com/u/7246206?v=4", "location": "Brisbane, Australia" },
+  { "name": "Elena M. López", "color": "#00984a", "username": "ElenaMLopez", "avatarUrl": "https://avatars0.githubusercontent.com/u/27022503?v=4", "location": "Madrid" },
+  { "name": "Sergitxu", "color": "#f77b00", "username": "sergitxu", "avatarUrl": "https://avatars3.githubusercontent.com/u/16776855?v=4", "location": "" },
+  { "name": "Javi Pérez", "color": "#f0f924", "username": "javimostoles", "avatarUrl": "https://avatars3.githubusercontent.com/u/662287?v=4", "location": "Madrid" },
+  { "name": "Márcio Kuroki", "color": "#B4DA55", "username": "marciokuroki","avatarUrl": "https://avatars1.githubusercontent.com/u/13626200?v=4", "location": "" },
+  { "name": "Ilya Sosnovsky", "color": "#2a339e", "username": "pashcovich","avatarUrl": "https://avatars3.githubusercontent.com/u/4571166?v=4", "location": "Russia, Kazan" },
+  { "name": "Inggih Wicaksono", "color": "#67c9a5", "username": "igihcksn", "avatarUrl": "https://avatars2.githubusercontent.com/u/22608147?v=4", "location": "Sleman, Yogyakarta" },
+  { "name": "Noe A.", "color": "#000000", "username": "deadreborn", "avatarUrl": "https://avatars2.githubusercontent.com/u/23313785?v=4", "location": "Madrid" },
+  { "name": "Sergio Morcuende", "color": "#00b390", "username": "smorcuend", "avatarUrl": "https://avatars3.githubusercontent.com/u/1575830?v=4", "location": "Madrid" },
+  { "name": "Anja Muller", "color": "#ad55da","username": "Lumary2","avatarUrl": "https://avatars0.githubusercontent.com/u/46068592?v=4", "location": "null" },
+  { "name": "Abednego Edet", "color": "#ff7300", "username": "asapabedi","avatarUrl": "https://avatars0.githubusercontent.com/u/29050206?v=4", "location": "Nigeria" },
+  {"name": "Aditya Agrawal", "color": "#6065e2", "username": "adiagr", "avatarUrl": "https://avatars0.githubusercontent.com/u/21157331?v=4","location": "New delhi" },
+  { "name": "J. Nat", "color": "#3891df", "username": "jnat01", "avatarUrl": "https://avatars0.githubusercontent.com/u/26845642?v=4", "location": "USA" },
+  { "name": "M. X. Lever", "color": "#fff000", "username": "levermanx", "avatarUrl": "https://avatars1.githubusercontent.com/u/53445046?v=4", "location": "Lithuania" },
+  { "name": "AitorDB", "color": "#8121ff", "username": "AitorDB", "avatarUrl": "https://avatars1.githubusercontent.com/u/6829526?v=4", "location": "London" },
+  { "name": "Manrique Lopez", "color": "#ff9900", "username": "jsmanrique", "avatarUrl": "https://avatars0.githubusercontent.com/u/1178305?v=4", "location": "Fuenlabrada, Spain" }
 ]

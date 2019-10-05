@@ -63,6 +63,125 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "sergitxu",
+      "name": "Sergitxu",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16776855?v=4",
+      "profile": "https://github.com/sergitxu",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ElenaMLopez",
+      "name": "Elena Mateos López",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/27022503?v=4",
+      "profile": "https://github.com/ElenaMLopez",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "marciokuroki",
+      "name": "marciokuroki",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13626200?v=4",
+      "profile": "https://github.com/marciokuroki",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "pashcovich",
+      "name": "Ilya Sosnovsky",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4571166?v=4",
+      "profile": "https://github.com/pashcovich",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "javimostoles",
+      "name": "Javi Pérez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/662287?v=4",
+      "profile": "http://www.javiperezdepedro.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "igihcksn",
+      "name": "Inggih Wicaksono",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22608147?v=4",
+      "profile": "https://github.com/igihcksn",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DeadReBorn",
+      "name": "DeadReBorn",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23313785?v=4",
+      "profile": "https://github.com/DeadReBorn",
+      "contributions": [
+        "code",
+        "business",
+        "bug"
+      ]
+    },
+    {
+      "login": "smorcuend",
+      "name": "Sergio Morcuende",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1575830?v=4",
+      "profile": "http://bloomod.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Lumary2",
+      "name": "Lumary2",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/46068592?v=4",
+      "profile": "https://github.com/Lumary2",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "asapabedi",
+      "name": "Abednego Edet",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29050206?v=4",
+      "profile": "http://nefilim.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "adiagr",
+      "name": "Aditya Agrawal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21157331?v=4",
+      "profile": "https://github.com/adiagr",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jnat01",
+      "name": "jnat01",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26845642?v=4",
+      "profile": "https://github.com/jnat01",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AitorDB",
+      "name": "AitorDB",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6829526?v=4",
+      "profile": "https://aitordb.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

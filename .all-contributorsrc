@@ -173,6 +173,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "AitorDB",
+      "name": "AitorDB",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6829526?v=4",
+      "profile": "https://aitordb.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -4,7 +4,7 @@
     <section class="row" v-if="loaded">
       <StatsWidget class="mr-2" title="Contributors" :value="contributorsCount" />
       <ColorWidget class="ml-2" title="Average Color" :value="averageColor" />
-      <ColorGridWidget class="mt-4" :colors="colors" />
+      <ColorGridWidget class="mt-4" :colors="colors" @new-average="updateAverage" />
     </section>
     <Loader v-else />
   </div>
@@ -33,16 +33,19 @@ export default {
 
   }),
   async mounted () {
-    this.averageColor = await this.getRGBAverage()
-    this.loaded = true
+    this.loaded = await this.updateAverage(this.colors)
   },
   methods: {
-    async getRGBAverage () {
-      const colors = this.colors.map(c => c.replace(/#/g, ''))
+    async getRGBAverage (hexColors) {
+      const colors = hexColors.map(c => c.replace(/#/g, ''))
       const rgbValue = await this.colorHelper.getRGBAverageFromHex(colors)
       const jsonColor = await this.colorHelper.getJsonColor(rgbValue, 'rgb')
 
       return jsonColor.hex.value
+    },
+    async updateAverage (colors) {
+      this.averageColor = await this.getRGBAverage(colors)
+      return true
     }
   },
   computed: {

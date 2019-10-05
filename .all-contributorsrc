@@ -42,7 +42,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/15832553?v=4",
       "profile": "http://agusnez.github.io",
       "contributions": [
-        "code"
+        "code",
+        "content"
       ]
     },
     {
@@ -61,7 +62,8 @@
       "profile": "https://github.com/DanielOrmeno",
       "contributions": [
         "code",
-        "ideas"
+        "ideas",
+        "content"
       ]
     },
     {
@@ -179,6 +181,15 @@
       "name": "AitorDB",
       "avatar_url": "https://avatars1.githubusercontent.com/u/6829526?v=4",
       "profile": "https://aitordb.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jsmanrique",
+      "name": "Manrique Lopez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1178305?v=4",
+      "profile": "http://jsmanrique.es",
       "contributions": [
         "code"
       ]

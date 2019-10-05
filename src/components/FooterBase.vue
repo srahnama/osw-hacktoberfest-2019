@@ -12,9 +12,11 @@
           <a href="https://meetup.com/es-ES/Open-Source-Weekends" target="_blank">
             <i class="fab fa-meetup m-2"></i>
           </a>
-          <br>
-          <span style="color:#737373;">Powered by OSWeekends</span>
         </p>
+        <small class="d-block text-center">
+          Powered by <a href="http://osweekends.com/">OSWeekends</a>.
+          Made with 💙 by <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019#contributors-">guilders & contributors</a>
+        </small>
       </div>
     </div>
   </footer>

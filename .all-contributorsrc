@@ -42,7 +42,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/15832553?v=4",
       "profile": "http://agusnez.github.io",
       "contributions": [
-        "code"
+        "code",
+        "content"
       ]
     },
     {
@@ -61,7 +62,8 @@
       "profile": "https://github.com/DanielOrmeno",
       "contributions": [
         "code",
-        "ideas"
+        "ideas",
+        "content"
       ]
     },
     {
@@ -188,6 +190,15 @@
       "name": "Manrique Lopez",
       "avatar_url": "https://avatars0.githubusercontent.com/u/1178305?v=4",
       "profile": "http://jsmanrique.es",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mewcifur28",
+      "name": "Ishita Gambhir",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39668499?v=4",
+      "profile": "https://github.com/mewcifur28",
       "contributions": [
         "code"
       ]

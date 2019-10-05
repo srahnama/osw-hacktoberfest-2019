@@ -7,11 +7,11 @@
       <ColorGridWidget class="mt-4" :colors="colors" @new-average="updateAverage" />
     </section>
     <Loader v-else />
+    <ChartsStats/>
   </div>
 </template>
 
 <script>
-
 import HeaderTitle from '@/components/HeaderTitle'
 import Loader from '@/components/Loader'
 import contributors from '@/assets/contributors.json'
@@ -20,17 +20,17 @@ import ColorWidget from './ColorWidget'
 import ColorGridWidget from './ColorGridWidget'
 
 import { colorHelper } from '@/modules/color'
+import ChartsStats from './ChartsStats'
 
 export default {
   name: 'Stats',
-  components: { HeaderTitle, ColorWidget, ColorGridWidget, StatsWidget, Loader },
+  components: { ChartsStats, HeaderTitle, ColorWidget, ColorGridWidget, StatsWidget, Loader },
   data: () => ({
     contributors,
     colorHelper,
     loaded: false,
     averageColor: undefined,
     contributorsCount: contributors.length.toString()
-
   }),
   async mounted () {
     this.loaded = await this.updateAverage(this.colors)

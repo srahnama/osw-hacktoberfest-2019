@@ -75,7 +75,8 @@ export default {
         name: '',
         color: '',
         username: '',
-        avatarUrl: ''
+        avatarUrl: '',
+        location: ''
       },
       buttonIsLoading: false
     }
@@ -107,6 +108,7 @@ export default {
           this.copyModel.color = this.form.color
           this.copyModel.username = this.form.username
           this.copyModel.avatarUrl = res.data.avatar_url
+          this.copyModel.location = res.data.location
         })
         .catch((err) => {
           this.buttonIsLoading = false
@@ -135,7 +137,7 @@ export default {
             variant: 'danger',
             autoHideDelay: 5000
           })
-          this.copyModel = { name: '', color: '', username: '', avatarUrl: '' }
+          this.copyModel = { name: '', color: '', username: '', avatarUrl: '', location: '' }
         })
     },
     getGithubUser (user) {

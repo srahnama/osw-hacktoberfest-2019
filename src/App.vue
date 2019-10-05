@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import vLayout from '@/Layouts/Main'
+import vLayout from '@/layouts/Main'
 
 export default {
   name: 'App',

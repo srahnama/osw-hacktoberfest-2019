@@ -37,7 +37,6 @@ export default {
   },
   methods: {
     async getRGBAverage (hexColors) {
-      console.log('lololo')
       const colors = hexColors.map(c => c.replace(/#/g, ''))
       const rgbValue = await this.colorHelper.getRGBAverageFromHex(colors)
       const jsonColor = await this.colorHelper.getJsonColor(rgbValue, 'rgb')

@@ -3,7 +3,7 @@
 
     <hr class="mb-5">
 
-    <p class="font-weight-bold">
+    <p class="font-weight-bold" v-if="isReady">
       Total of commits:
       <b-badge variant="info">{{ totalCommits }}</b-badge>
     </p>
@@ -64,7 +64,6 @@ export default {
     }
   },
   methods: {
-    // Recargar
     fetchData () {
       const url = 'https://api.github.com/repos/OSWeekends/osw-hacktoberfest-2019/stats/punch_card'
       get(url)

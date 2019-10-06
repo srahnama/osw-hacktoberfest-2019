@@ -213,6 +213,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "carlosazaustre",
+      "name": "Carlos Azaustre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/650752?v=4",
+      "profile": "https://carlosazaustre.es",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

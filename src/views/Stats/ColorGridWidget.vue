@@ -1,11 +1,11 @@
 <template>
-  <section class="col-12 pt-3 shadow bg-white rounded">
+  <section class="col-12 pt-3 pb-3 shadow bg-white rounded">
     <h4>Color Grid</h4>
     <p><i>
       <strong>Pro tip:</strong>
       Click on a color to see how average have been changing over time ;)
     </i></p>
-    <div class="row">
+    <div class="row mr-0 ml-0">
       <div class="color-tile"
         v-for="(color, index) in uniqueColors"
         :key="color"

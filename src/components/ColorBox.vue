@@ -1,5 +1,5 @@
 <template>
-    <span class="color-box" :style="{ backgroundColor: color}"></span>
+  <span class="color-box" :style="{ backgroundColor: color}"></span>
 </template>
 
 <script>
@@ -25,5 +25,7 @@ export default {
   @media (max-width: 576px)
     right 15px
     width 1em
+  &.no-right
+    right 0
 
 </style>

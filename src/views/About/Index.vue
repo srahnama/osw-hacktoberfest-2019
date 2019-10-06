@@ -22,7 +22,7 @@
         <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
         <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
         <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">        
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
       </div>
 
       <div class="text-center">

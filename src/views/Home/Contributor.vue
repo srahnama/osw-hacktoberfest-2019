@@ -1,5 +1,8 @@
 <template>
-  <div class="col-md-6 mb-3">
+  <div class="col-md-6 mb-3"
+        @mouseover="onMouseOver"
+        @mouseleave="onMouseLeave"
+        :class="animation">
     <div class="contributor shadow p-3 bg-white rounded">
       <span class="floating-idx">{{ contributor.index + 1 }}</span>
       <ColorBox :color="contributor.color" />
@@ -17,6 +20,7 @@
 
 <script>
 import ColorBox from '@/components/ColorBox'
+import { getrandomAnimation } from '@/modules/animations'
 
 export default {
   name: 'Contributor',
@@ -27,6 +31,10 @@ export default {
       type: Object
     }
   },
+  data: () => ({
+    hasMouseOver: false,
+    getrandomAnimation
+  }),
   computed: {
     theColorApiLink () {
       const noHashColor = this.contributor.color.substr(1)
@@ -38,6 +46,17 @@ export default {
     theLocation () {
       const location = this.contributor.location
       return `https://www.google.com/maps/search/?api=1&query=${location}`
+    },
+    animation () {
+      return this.hasMouseOver ? this.getrandomAnimation() : ''
+    }
+  },
+  methods: {
+    onMouseOver () {
+      this.hasMouseOver = true
+    },
+    onMouseLeave () {
+      this.hasMouseOver = false
     }
   }
 }

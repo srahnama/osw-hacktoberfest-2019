@@ -286,6 +286,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "cavr",
+      "name": "Charles (Carlos Aarón Villanueva Roca)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3741142?v=4",
+      "profile": "https://cavr.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

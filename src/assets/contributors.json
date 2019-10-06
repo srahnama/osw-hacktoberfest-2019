@@ -20,5 +20,7 @@
   { "name": "Manrique Lopez", "color": "#ff9900", "username": "jsmanrique", "avatarUrl": "https://avatars0.githubusercontent.com/u/1178305?v=4", "location": "Fuenlabrada, Spain" },
   { "name": "Ishita Gambhir", "color": "#ff87c5", "username": "mewcifur28", "avatarUrl": "https://avatars3.githubusercontent.com/u/39668499?v=4", "location": "Delhi, India" },
   { "name": "Carlos Hernandez", "color": "#003da5", "username": "CodingCarlos", "avatarUrl": "https://avatars3.githubusercontent.com/u/7394623?v=4", "location": "Madrid, Spain" },
-  { "name": "Miguel Ángel Durán", "color": "#0099ff", "username": "midudev", "avatarUrl": "https://avatars3.githubusercontent.com/u/1561955?v=4", "location": "Barcelona" }
+  { "name": "Miguel Ángel Durán", "color": "#0099ff", "username": "midudev", "avatarUrl": "https://avatars3.githubusercontent.com/u/1561955?v=4", "location": "Barcelona" },
+  { "name": "Carlos Azaustre", "color": "#d96500", "username": "carlosazaustre", "avatarUrl": "https://avatars2.githubusercontent.com/u/650752?v=4", "location": "Madrid, Spain" }
+
 ]

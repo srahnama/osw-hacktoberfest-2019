@@ -126,8 +126,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/NotRealPaz"><img src="https://avatars3.githubusercontent.com/u/26038500?v=4" width="100px;" alt="Passawat Noraman"/><br /><sub><b>Passawat Noraman</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=NotRealPaz" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/volmedo"><img src="https://avatars3.githubusercontent.com/u/16189413?v=4" width="100px;" alt="Vicente Olmedo"/><br /><sub><b>Vicente Olmedo</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=volmedo" title="Code">💻</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://cavr.dev"><img src="https://avatars3.githubusercontent.com/u/3741142?v=4" width="100px;" alt="Charles (Carlos Aarón Villanueva Roca)"/><br /><sub><b>Charles (Carlos Aarón Villanueva Roca)</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=cavr" title="Code">💻</a></td>
   </tr>
 </table>

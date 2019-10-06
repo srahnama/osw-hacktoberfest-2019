@@ -2,7 +2,7 @@
   <section class="col shadow p-3 bg-white rounded">
     <ColorBox :color="value" class="no-right" />
     <h4>{{title}}</h4>
-    <h2><a :href="colorApiLink">{{value}}</a></h2>
+    <a class="lead" :href="colorApiLink">{{value}}</a>
   </section>
 </template>
 

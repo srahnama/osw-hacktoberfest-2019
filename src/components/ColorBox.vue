@@ -19,7 +19,7 @@ export default {
   height 100%
   top 0
   right 30px
-  transition 1s ease-out all
+  transition .3s ease-out all
   @media (max-width: 768px)
     width 1.5em
   @media (max-width: 576px)

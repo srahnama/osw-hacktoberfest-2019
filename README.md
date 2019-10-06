@@ -26,7 +26,7 @@
 
 0 - Star the repo by pressing the topmost-right button to start your wonderful journey ⭐️⭐️⭐️.  
 1 - Go to [`develop`](https://github.com/OSWeekends/osw-hacktoberfest-2019/tree/develop) branch.  
-2 - Add yourself at the end of the [`contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/develop/src/assets/contributors.json) file.  
+2 - Add yourself at the end of the [`src/assets/contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/develop/src/assets/contributors.json) file.  
 3 - Ask to merge your change (from `develop`) into `develop` branch.  
 
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃

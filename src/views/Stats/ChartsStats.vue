@@ -90,11 +90,14 @@ export default {
      * @param day Number
      */
     populateCharts (day) {
+      // Days
       const values = this.statsRaw.filter(item => item[0] === day)
       this.opts = {
         ...options,
+        // Hours 0 -> 23
         xaxis: { categories: values.map(item => item[1]) }
       }
+      // Data
       this.series[0].data = values.map(item => item[2])
       this.totalCommits = values.map(item => item[2]).reduce((a, b) => a + b)
     }

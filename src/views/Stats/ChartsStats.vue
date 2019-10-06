@@ -3,21 +3,25 @@
 
     <hr class="mb-5">
 
-    <p class="font-weight-bold" v-if="isReady">
+    <div class="shadow p-3 bg-white rounded">
+      <b-form-group>
+        <b-form-radio-group
+          v-model="selectedDay"
+          :options="days"
+          name="radio-inline"
+          @input="populateCharts(selectedDay)"
+        ></b-form-radio-group>
+      </b-form-group>
+    </div>
+
+    <h3 class="font-weight-bold my-4" v-if="isReady">
       Total of commits:
       <b-badge variant="info">{{ totalCommits }}</b-badge>
-    </p>
+    </h3>
 
-    <b-form-group>
-      <b-form-radio-group
-        v-model="selectedDay"
-        :options="days"
-        name="radio-inline"
-        @input="populateCharts(selectedDay)"
-      ></b-form-radio-group>
-    </b-form-group>
-
-    <apexchart v-if="isReady" height="200" :options="opts" :series="series"></apexchart>
+    <div class="shadow p-3 bg-white rounded">
+      <apexchart v-if="isReady" height="200" :options="opts" :series="series"></apexchart>
+    </div>
   </div>
 </template>
 

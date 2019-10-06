@@ -48,8 +48,13 @@ export default {
   position: relative
   .floating-idx
     position absolute
-    right 4px
+    display inline-block
+    width 30px
+    text-align center
+    right 0
     top 4px
     font-size 12px
     color #e8e8e8
+    @media (max-width: 576px)
+      width: 15px
 </style>

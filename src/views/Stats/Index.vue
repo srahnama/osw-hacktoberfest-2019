@@ -1,7 +1,7 @@
 <template>
   <div class="stats">
     <HeaderTitle title="Contributors stats 🚀" />
-    <section class="row" v-if="loaded">
+    <section class="row mr-0 ml-0" v-if="loaded">
       <StatsWidget class="mr-2" title="Contributors" :value="contributorsCount" />
       <ColorWidget class="ml-2" title="Average Color" :value="averageColor" />
       <ColorGridWidget class="mt-4" :colors="colors" @new-average="updateAverage" />

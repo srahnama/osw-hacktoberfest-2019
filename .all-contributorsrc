@@ -232,6 +232,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "pablosirera",
+      "name": "Pablo Sirera",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25353031?v=4",
+      "profile": "https://pablosirera.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

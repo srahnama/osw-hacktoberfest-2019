@@ -3,11 +3,6 @@
 
     <hr class="mb-5">
 
-    <h3 class="font-weight-bold" v-if="isReady">
-      Total of commits:
-      <b-badge variant="info">{{ totalCommits }}</b-badge>
-    </h3>
-
     <div class="shadow p-3 bg-white rounded">
       <b-form-group>
         <b-form-radio-group
@@ -19,7 +14,12 @@
       </b-form-group>
     </div>
 
-    <div class="mt-3 shadow p-3 bg-white rounded">
+    <h3 class="font-weight-bold my-4" v-if="isReady">
+      Total of commits:
+      <b-badge variant="info">{{ totalCommits }}</b-badge>
+    </h3>
+
+    <div class="shadow p-3 bg-white rounded">
       <apexchart v-if="isReady" height="200" :options="opts" :series="series"></apexchart>
     </div>
   </div>

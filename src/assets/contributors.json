@@ -25,5 +25,6 @@
   { "name": "Santi", "color": "#da3913", "username": "SantiMA10", "avatarUrl": "https://avatars2.githubusercontent.com/u/7255298?v=4", "location": "Asturias, Spain" },
   { "name": "Pablo Sirera", "color": "#1f8ed5", "username": "pablosirera", "avatarUrl": "https://avatars2.githubusercontent.com/u/25353031?v=4", "location": "Valencia, Spain" },
   { "name": "Rodrigo Prado de Jesus", "color": "#1f8ed5", "username": "royopa", "avatarUrl": "https://avatars2.githubusercontent.com/u/442991?v=4", "location": "São Paulo, Brazil" },
-  { "name": "Prakash Saini", "color": "#1f8ed5", "username": "Prakash-sa", "avatarUrl": "https://avatars1.githubusercontent.com/u/35262074?v=4", "location": "Surat, Gujarat" }
+  { "name": "Prakash Saini", "color": "#1f8ed5", "username": "Prakash-sa", "avatarUrl": "https://avatars1.githubusercontent.com/u/35262074?v=4", "location": "Surat, Gujarat" },
+  { "name": "Vicente Olmedo", "color": "#171970", "username": "volmedo", "avatarUrl": "https://avatars3.githubusercontent.com/u/16189413?v=4", "location": "Madrid, Spain" }
 ]

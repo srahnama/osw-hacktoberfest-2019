@@ -259,6 +259,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "volmedo",
+      "name": "Vicente Olmedo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16189413?v=4",
+      "profile": "https://github.com/volmedo",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

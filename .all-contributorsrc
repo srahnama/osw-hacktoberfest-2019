@@ -53,7 +53,8 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/47319388?v=4",
       "profile": "https://github.com/jorge-bajana",
       "contributions": [
-        "code"
+        "code",
+        "bug"
       ]
     },
     {
@@ -202,6 +203,25 @@
       "profile": "https://github.com/mewcifur28",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "midudev",
+      "name": "Miguel Ángel Durán",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1561955?v=4",
+      "profile": "https://midu.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "carlosazaustre",
+      "name": "Carlos Azaustre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/650752?v=4",
+      "profile": "https://carlosazaustre.es",
+      "contributions": [
+        "code",
+        "content"
       ]
     }
   ],

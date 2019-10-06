@@ -7,7 +7,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/OSWeekends/osw-hacktoberfest-2019?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/commits/master)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -121,6 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://pablosirera.com"><img src="https://avatars0.githubusercontent.com/u/25353031?v=4" width="100px;" alt="Pablo Sirera"/><br /><sub><b>Pablo Sirera</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=pablosirera" title="Code">💻</a></td>
     <td align="center"><a href="http://about.me/royopa"><img src="https://avatars3.githubusercontent.com/u/442991?v=4" width="100px;" alt="Rodrigo Prado"/><br /><sub><b>Rodrigo Prado</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=royopa" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Prakash-sa"><img src="https://avatars0.githubusercontent.com/u/35262074?v=4" width="100px;" alt="Prakash Saini"/><br /><sub><b>Prakash Saini</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Prakash-sa" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.falc0n.es"><img src="https://avatars0.githubusercontent.com/u/2099350?v=4" width="100px;" alt="Miguel Angel Falcón Muñoz"/><br /><sub><b>Miguel Angel Falcón Muñoz</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=falconmfm" title="Code">💻</a></td>
   </tr>
 </table>
 

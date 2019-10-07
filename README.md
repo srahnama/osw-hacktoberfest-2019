@@ -29,6 +29,8 @@
 1 - Go to [`develop`](https://github.com/OSWeekends/osw-hacktoberfest-2019/tree/develop) branch.  
 2 - Add yourself at the end of the [`src/assets/contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/develop/src/assets/contributors.json) file.  
 3 - Ask to merge your change (from `develop`) into `develop` branch.  
+  - The **title** of your PullRequest must be: "Add _yourUsername_ to contributors.json"
+  - In the **body** of the request place this text: "Because I love Open Source Weekends 💙"
 
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
 

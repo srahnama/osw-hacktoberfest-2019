@@ -7,7 +7,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/OSWeekends/osw-hacktoberfest-2019?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/commits/master)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -129,6 +129,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://cavr.dev"><img src="https://avatars3.githubusercontent.com/u/3741142?v=4" width="100px;" alt="Charles (Carlos Aarón Villanueva Roca)"/><br /><sub><b>Charles (Carlos Aarón Villanueva Roca)</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=cavr" title="Code">💻</a></td>
     <td align="center"><a href="https://luispa.dev"><img src="https://avatars0.githubusercontent.com/u/22195501?v=4" width="100px;" alt="LuisPa"/><br /><sub><b>LuisPa</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=LuisPaGarcia" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/juniorUsca"><img src="https://avatars2.githubusercontent.com/u/8844348?v=4" width="100px;" alt="Junior Usca"/><br /><sub><b>Junior Usca</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=juniorUsca" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/anibalajt/"><img src="https://avatars3.githubusercontent.com/u/2723625?v=4" width="100px;" alt="andres jaraba"/><br /><sub><b>andres jaraba</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=anibalajt" title="Code">💻</a></td>
   </tr>
 </table>
 

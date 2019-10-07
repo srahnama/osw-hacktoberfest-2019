@@ -322,6 +322,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "efrenmartinez",
+      "name": "Efrén Martínez Rodríguez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10801400?v=4",
+      "profile": "https://efrenmartinez.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

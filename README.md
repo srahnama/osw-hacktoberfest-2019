@@ -20,7 +20,7 @@
 >
 > More info in the [about](https://osw-hacktoberfest19.netlify.com/#/generate) page
 
-![image](./src/assets/generate.png)
+![image](src/assets/img/generate.png)
 
 ## How to contribute?
 

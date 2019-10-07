@@ -215,5 +215,12 @@
 		"username": "cavr",
 		"avatarUrl": "https://avatars3.githubusercontent.com/u/3741142?v=4",
 		"location": "Madrid"
+	},
+	{
+		"name": "LuisPa García",
+		"color": "#E34C26",
+		"username": "luispagarcia",
+		"avatarUrl": "https://avatars3.githubusercontent.com/u/22195501?s=460&v=4",
+		"location": "Guatemala"
 	}
 ]

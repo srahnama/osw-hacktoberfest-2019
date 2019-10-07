@@ -6,8 +6,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/pulls)
 [![GitHub last commit](https://img.shields.io/github/last-commit/OSWeekends/osw-hacktoberfest-2019?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/commits/master)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OSWeekends/osw-hacktoberfest-2019?style=flat-square)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -28,6 +29,8 @@
 1 - Go to [`develop`](https://github.com/OSWeekends/osw-hacktoberfest-2019/tree/develop) branch.  
 2 - Add yourself at the end of the [`src/assets/contributors.json`](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/develop/src/assets/contributors.json) file.  
 3 - Ask to merge your change (from `develop`) into `develop` branch.  
+  - The **title** of your PullRequest must be: "Add _yourUsername_ to contributors.json"
+  - In the **body** of the request place this text: "Because I love Open Source Weekends 💙"
 
 __Congrats!__ You are an awesome contributor! 🎃 🎃 🎃
 
@@ -117,6 +120,33 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://midu.dev"><img src="https://avatars3.githubusercontent.com/u/1561955?v=4" width="100px;" alt="Miguel Ángel Durán"/><br /><sub><b>Miguel Ángel Durán</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=midudev" title="Code">💻</a></td>
     <td align="center"><a href="https://carlosazaustre.es"><img src="https://avatars2.githubusercontent.com/u/650752?v=4" width="100px;" alt="Carlos Azaustre"/><br /><sub><b>Carlos Azaustre</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=carlosazaustre" title="Code">💻</a> <a href="#content-carlosazaustre" title="Content">🖋</a></td>
+    <td align="center"><a href="http://santiagomartin.dev"><img src="https://avatars2.githubusercontent.com/u/7255298?v=4" width="100px;" alt="Santi"/><br /><sub><b>Santi</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=SantiMA10" title="Code">💻</a></td>
+    <td align="center"><a href="https://pablosirera.com"><img src="https://avatars0.githubusercontent.com/u/25353031?v=4" width="100px;" alt="Pablo Sirera"/><br /><sub><b>Pablo Sirera</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=pablosirera" title="Code">💻</a></td>
+    <td align="center"><a href="http://about.me/royopa"><img src="https://avatars3.githubusercontent.com/u/442991?v=4" width="100px;" alt="Rodrigo Prado"/><br /><sub><b>Rodrigo Prado</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=royopa" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Prakash-sa"><img src="https://avatars0.githubusercontent.com/u/35262074?v=4" width="100px;" alt="Prakash Saini"/><br /><sub><b>Prakash Saini</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Prakash-sa" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.falc0n.es"><img src="https://avatars0.githubusercontent.com/u/2099350?v=4" width="100px;" alt="Miguel Angel Falcón Muñoz"/><br /><sub><b>Miguel Angel Falcón Muñoz</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=falconmfm" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/NotRealPaz"><img src="https://avatars3.githubusercontent.com/u/26038500?v=4" width="100px;" alt="Passawat Noraman"/><br /><sub><b>Passawat Noraman</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=NotRealPaz" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/volmedo"><img src="https://avatars3.githubusercontent.com/u/16189413?v=4" width="100px;" alt="Vicente Olmedo"/><br /><sub><b>Vicente Olmedo</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=volmedo" title="Code">💻</a></td>
+    <td align="center"><a href="https://cavr.dev"><img src="https://avatars3.githubusercontent.com/u/3741142?v=4" width="100px;" alt="Charles (Carlos Aarón Villanueva Roca)"/><br /><sub><b>Charles (Carlos Aarón Villanueva Roca)</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=cavr" title="Code">💻</a></td>
+    <td align="center"><a href="https://luispa.dev"><img src="https://avatars0.githubusercontent.com/u/22195501?v=4" width="100px;" alt="LuisPa"/><br /><sub><b>LuisPa</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=LuisPaGarcia" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/juniorUsca"><img src="https://avatars2.githubusercontent.com/u/8844348?v=4" width="100px;" alt="Junior Usca"/><br /><sub><b>Junior Usca</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=juniorUsca" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/anibalajt/"><img src="https://avatars3.githubusercontent.com/u/2723625?v=4" width="100px;" alt="andres jaraba"/><br /><sub><b>andres jaraba</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=anibalajt" title="Code">💻</a></td>
+    <td align="center"><a href="https://efrenmartinez.github.io/"><img src="https://avatars2.githubusercontent.com/u/10801400?v=4" width="100px;" alt="Efrén Martínez Rodríguez"/><br /><sub><b>Efrén Martínez Rodríguez</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=efrenmartinez" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.linkedin.com/in/ankitsridhar/"><img src="https://avatars3.githubusercontent.com/u/36269838?v=4" width="100px;" alt="Ankit Sridhar"/><br /><sub><b>Ankit Sridhar</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ankitsridhar16" title="Code">💻</a></td>
+    <td align="center"><a href="http://beelzenef.github.io"><img src="https://avatars3.githubusercontent.com/u/6389665?v=4" width="100px;" alt="Elena G"/><br /><sub><b>Elena G</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Beelzenef" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.iamvaibhavkr.me/"><img src="https://avatars1.githubusercontent.com/u/45658535?v=4" width="100px;" alt="Vaibhav Kumar"/><br /><sub><b>Vaibhav Kumar</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ivaibhavkr" title="Code">💻</a></td>
+    <td align="center"><a href="https://delacruz.dev"><img src="https://avatars2.githubusercontent.com/u/5173869?v=4" width="100px;" alt="Dani de la Cruz"/><br /><sub><b>Dani de la Cruz</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=delacruz-dev" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/4rturd13"><img src="https://avatars2.githubusercontent.com/u/50093998?v=4" width="100px;" alt="4rturd13"/><br /><sub><b>4rturd13</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=4rturd13" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/dubesar"><img src="https://avatars2.githubusercontent.com/u/38752758?v=4" width="100px;" alt="Sarvesh Dubey"/><br /><sub><b>Sarvesh Dubey</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=dubesar" title="Code">💻</a></td>
+    <td align="center"><a href="https://pbehre.in"><img src="https://avatars3.githubusercontent.com/u/7106809?v=4" width="100px;" alt="Pavitra Behre"/><br /><sub><b>Pavitra Behre</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=pavitra14" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/santiagotrigoporres/"><img src="https://avatars0.githubusercontent.com/u/22293570?v=4" width="100px;" alt="Santiago Trigo Porres"/><br /><sub><b>Santiago Trigo Porres</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=trigoporres" title="Code">💻</a></td>
+    <td align="center"><a href="https://enbonnet.me"><img src="https://avatars2.githubusercontent.com/u/13243693?v=4" width="100px;" alt="Ender Bonnet"/><br /><sub><b>Ender Bonnet</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=enBonnet" title="Code">💻</a></td>
   </tr>
 </table>
 

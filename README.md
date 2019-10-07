@@ -8,7 +8,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OSWeekends/osw-hacktoberfest-2019?style=flat-square)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -143,6 +143,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/4rturd13"><img src="https://avatars2.githubusercontent.com/u/50093998?v=4" width="100px;" alt="4rturd13"/><br /><sub><b>4rturd13</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=4rturd13" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/dubesar"><img src="https://avatars2.githubusercontent.com/u/38752758?v=4" width="100px;" alt="Sarvesh Dubey"/><br /><sub><b>Sarvesh Dubey</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=dubesar" title="Code">💻</a></td>
     <td align="center"><a href="https://pbehre.in"><img src="https://avatars3.githubusercontent.com/u/7106809?v=4" width="100px;" alt="Pavitra Behre"/><br /><sub><b>Pavitra Behre</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=pavitra14" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/santiagotrigoporres/"><img src="https://avatars0.githubusercontent.com/u/22293570?v=4" width="100px;" alt="Santiago Trigo Porres"/><br /><sub><b>Santiago Trigo Porres</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=trigoporres" title="Code">💻</a></td>
   </tr>
 </table>
 

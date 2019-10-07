@@ -8,7 +8,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OSWeekends/osw-hacktoberfest-2019?style=flat-square)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -137,6 +137,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.linkedin.com/in/ankitsridhar/"><img src="https://avatars3.githubusercontent.com/u/36269838?v=4" width="100px;" alt="Ankit Sridhar"/><br /><sub><b>Ankit Sridhar</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ankitsridhar16" title="Code">💻</a></td>
     <td align="center"><a href="http://beelzenef.github.io"><img src="https://avatars3.githubusercontent.com/u/6389665?v=4" width="100px;" alt="Elena G"/><br /><sub><b>Elena G</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Beelzenef" title="Code">💻</a></td>
     <td align="center"><a href="https://www.iamvaibhavkr.me/"><img src="https://avatars1.githubusercontent.com/u/45658535?v=4" width="100px;" alt="Vaibhav Kumar"/><br /><sub><b>Vaibhav Kumar</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ivaibhavkr" title="Code">💻</a></td>
+    <td align="center"><a href="https://delacruz.dev"><img src="https://avatars2.githubusercontent.com/u/5173869?v=4" width="100px;" alt="Dani de la Cruz"/><br /><sub><b>Dani de la Cruz</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=delacruz-dev" title="Code">💻</a></td>
   </tr>
 </table>
 

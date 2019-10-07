@@ -15,7 +15,7 @@
     </div>
 
     <h3 class="font-weight-bold my-4" v-if="isReady">
-      Total of commits:
+      Number of commits:
       <b-badge variant="info">{{ totalCommits }}</b-badge>
     </h3>
 

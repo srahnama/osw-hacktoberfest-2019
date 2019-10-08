@@ -8,7 +8,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OSWeekends/osw-hacktoberfest-2019?style=flat-square)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -147,6 +147,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/santiagotrigoporres/"><img src="https://avatars0.githubusercontent.com/u/22293570?v=4" width="100px;" alt="Santiago Trigo Porres"/><br /><sub><b>Santiago Trigo Porres</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=trigoporres" title="Code">💻</a></td>
     <td align="center"><a href="https://enbonnet.me"><img src="https://avatars2.githubusercontent.com/u/13243693?v=4" width="100px;" alt="Ender Bonnet"/><br /><sub><b>Ender Bonnet</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=enBonnet" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/st900278"><img src="https://avatars0.githubusercontent.com/u/1564121?v=4" width="100px;" alt="OberonFrog"/><br /><sub><b>OberonFrog</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=st900278" title="Code">💻</a></td>
   </tr>
 </table>
 

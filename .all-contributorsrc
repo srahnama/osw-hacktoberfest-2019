@@ -449,6 +449,15 @@
         "code",
         "question"
       ]
+    },
+    {
+      "login": "cruiz24",
+      "name": "Abhi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33179956?v=4",
+      "profile": "https://github.com/cruiz24",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

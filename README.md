@@ -147,7 +147,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/santiagotrigoporres/"><img src="https://avatars0.githubusercontent.com/u/22293570?v=4" width="100px;" alt="Santiago Trigo Porres"/><br /><sub><b>Santiago Trigo Porres</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=trigoporres" title="Code">💻</a></td>
     <td align="center"><a href="https://enbonnet.me"><img src="https://avatars2.githubusercontent.com/u/13243693?v=4" width="100px;" alt="Ender Bonnet"/><br /><sub><b>Ender Bonnet</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=enBonnet" title="Code">💻</a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/s-rahnama/"><img src="https://avatars1.githubusercontent.com/u/15347706?v=4" width="100px;" alt="Shahab Rahnama"/><br /><sub><b>Shahab Rahnama</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=srahnama" title="Code">💻</a></td>
+    </td>
   </tr>
+ 
+ 
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->

@@ -8,7 +8,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OSWeekends/osw-hacktoberfest-2019?style=flat-square)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -151,6 +151,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Angel10050"><img src="https://avatars0.githubusercontent.com/u/50499606?v=4" width="100px;" alt="Velez Angel Mario"/><br /><sub><b>Velez Angel Mario</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Angel10050" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/joamarderije"><img src="https://avatars1.githubusercontent.com/u/5716623?v=4" width="100px;" alt="jhomz.derije"/><br /><sub><b>jhomz.derije</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=joamarderije" title="Code">💻</a></td>
     <td align="center"><a href="https://codepen.io/merkund/"><img src="https://avatars1.githubusercontent.com/u/45009615?v=4" width="100px;" alt="Ann Herbik"/><br /><sub><b>Ann Herbik</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ann-dev" title="Code">💻</a> <a href="#question-ann-dev" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/cruiz24"><img src="https://avatars1.githubusercontent.com/u/33179956?v=4" width="100px;" alt="Abhi"/><br /><sub><b>Abhi</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=cruiz24" title="Code">💻</a></td>
   </tr>
 </table>
 

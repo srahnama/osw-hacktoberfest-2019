@@ -8,7 +8,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OSWeekends/osw-hacktoberfest-2019?style=flat-square)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -149,6 +149,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://enbonnet.me"><img src="https://avatars2.githubusercontent.com/u/13243693?v=4" width="100px;" alt="Ender Bonnet"/><br /><sub><b>Ender Bonnet</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=enBonnet" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/st900278"><img src="https://avatars0.githubusercontent.com/u/1564121?v=4" width="100px;" alt="OberonFrog"/><br /><sub><b>OberonFrog</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=st900278" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Angel10050"><img src="https://avatars0.githubusercontent.com/u/50499606?v=4" width="100px;" alt="Velez Angel Mario"/><br /><sub><b>Velez Angel Mario</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=Angel10050" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/joamarderije"><img src="https://avatars1.githubusercontent.com/u/5716623?v=4" width="100px;" alt="jhomz.derije"/><br /><sub><b>jhomz.derije</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=joamarderije" title="Code">💻</a></td>
   </tr>
 </table>
 

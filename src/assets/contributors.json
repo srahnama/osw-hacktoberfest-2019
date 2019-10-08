@@ -50,5 +50,6 @@
   { "name": "Abhi","color": "#4197bf","username": "cruiz24","avatarUrl": "https://avatars1.githubusercontent.com/u/33179956?v=4","location": "" },
   { "name": "Sachin Kamath", "color": "#ff0000","username": "s-a-c-h-i-n","avatarUrl": "https://avatars2.githubusercontent.com/u/30471507?v=4","location": "Airoli,Navi Mumbai" },
   { "name": "Ashwin Godbole", "color": "#A8A8A8", "username": "ashvin-godbole", "avatarUrl": "https://avatars3.githubusercontent.com/u/33014264?s=460&v=4", "location": "India" },
-  { "name": "Brandon Morse", "color": "#dddddd", "username": "morsecodemedia", "avatarUrl": "https://avatars3.githubusercontent.com/u/5315124?s=460&v=4", "location": "New Jersey, USA" }
+  { "name": "Brandon Morse", "color": "#dddddd", "username": "morsecodemedia", "avatarUrl": "https://avatars3.githubusercontent.com/u/5315124?s=460&v=4", "location": "New Jersey, USA" },
+  { "name": "Juan Torres","color": "#ceeb59","username": "zaldih","avatarUrl": "https://avatars3.githubusercontent.com/u/16844185?v=4","location": "Malaga, Spain" }
 ]

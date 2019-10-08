@@ -439,6 +439,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ann-dev",
+      "name": "Ann Herbik",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45009615?v=4",
+      "profile": "https://codepen.io/merkund/",
+      "contributions": [
+        "code",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
